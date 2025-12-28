@@ -3,7 +3,7 @@ package arackiralama;
 import java.util.Scanner;
 
 public class AracKiralama {
-
+    
     private static final int MAX_VEHICLES = 100;
     private static final int ATTRIBUTE_NUMBER = 6;
     
